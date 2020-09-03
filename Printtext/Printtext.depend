@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575914222 source:c:\users\mjpra\documents\c programs\printtext\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1575553627 source:c:\users\mjpra\documents\c programs\printtext\program to print an integer.c
+	<stdio.h>
+

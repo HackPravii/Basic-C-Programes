@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int call_sum(){
+    int i=0,s=0;						// Variable and Initialization 
+        for(i=0;i<=10;i++){ 					//for loop
+        s=s+i;							// Storing total value into S
+
+}
+return s;							// program control transfer over to main function
+}
+main()								// main function i
+{
+    int sum;
+    sum=call_sum()						//  return value storing on Sum
+    printf("With no Arguments with return value is   %d",sum);	//printing String and Sum
+
+
+}
+								//Praveen's Code
+
+

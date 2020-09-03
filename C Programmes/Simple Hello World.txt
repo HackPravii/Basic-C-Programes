@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+
+   printf("Hello, My Name is Praveen !");	// printf() displays the string inside quotation
+   return 0;
+}
+						//Praveen's Code

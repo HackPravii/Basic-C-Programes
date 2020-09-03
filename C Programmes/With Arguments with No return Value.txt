@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int call_sum(int a){
+    int i=0,s=0;					// Variable and Initialization
+        for(i=0;i<=a;i++){ //for loop
+        s=s+i;						// Storing total value into S
+
+}
+printf("With no Arguments with return value is   %d",s);//printing String and sum of passed parameter of calling function
+
+}
+main()							// main function i
+{
+    int sum;
+    sum=call_sum(10);					//  passing a value of maximum number to calculate
+
+
+}
+							//Praveen's Code
+

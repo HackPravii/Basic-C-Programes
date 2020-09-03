@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576258959 source:c:\users\mjpra\documents\c programs\find q and rm\main.c
+	<stdio.h>
+	<stdlib.h>
+

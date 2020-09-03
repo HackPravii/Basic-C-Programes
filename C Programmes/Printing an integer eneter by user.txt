@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int number;                         //Initialization of variable int 2^16 we can store -32768 to
+                                        // +32767 which is 2^16/2-1 and -2^16/2 0 is consider as Positive value
+    printf("Enter an Number: ");        //Just Printing the String to ask for Number
+
+    
+    scanf("%d", &number);               // reads the Entered input and store it to variable number
+
+  
+    printf("You entered: %d", number);  // displays output stored in variable number
+
+    return 0;
+}
+//Praveen's Code
