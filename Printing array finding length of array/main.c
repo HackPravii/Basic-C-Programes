@@ -11,3 +11,4 @@ for(i=0;i<length;i++){ // for loop maximum length
 }
 return 0;
 }
+//code by Praveen acharya
